@@ -1,1 +1,1 @@
-A clean architecture based android application to fetch most popular articles from NY Times. It uses webview to display a particular article when user selects it from the list. Programming code is written Kotlin with all the best software development practices
+A clean architecture based android application to fetch most popular articles from NY Times. It uses webview to display a particular article when user selects it from the list. Programming code is written Kotlin with the best software development practices
